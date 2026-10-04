@@ -1,0 +1,301 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 7076
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.133333 .133333 .133333 rg
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 34.01575 558.4252 Tm (Problem-Solution fit canvas 2.0) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 317.4803 559.8425 Tm (Auto Ticket Classification using Flow Designer) Tj T* ET
+BT 1 0 0 1 683.3665 559.8425 Tm (SWTID-2026-5730 | 03 October 2026) Tj T* ET
+1 1 1 rg
+.909804 .243137 .54902 RG
+1.2 w
+n 34.01575 379.2756 255.685 164.9764 re B*
+.909804 .243137 .54902 rg
+n 34.01575 521.5748 255.685 22.67717 re f*
+1 1 1 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 42.51969 529.2283 Tm (1. CUSTOMER SEGMENT\(S\)) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 45.35433 507.4016 Tm (Students and teachers who raise IT support tickets,) Tj T* ET
+BT 1 0 0 1 45.35433 494.0787 Tm (and IT helpdesk staff who handle those tickets.) Tj T* ET
+1 1 1 rg
+.909804 .243137 .54902 RG
+1.2 w
+n 293.1024 379.2756 255.685 164.9764 re B*
+.909804 .243137 .54902 rg
+n 293.1024 521.5748 255.685 22.67717 re f*
+1 1 1 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 301.6063 529.2283 Tm (6. CUSTOMER CONSTRAINTS) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 304.4409 507.4016 Tm (Manual classification consumes helpdesk time.) Tj T* ET
+BT 1 0 0 1 304.4409 494.0787 Tm (Classification must use the configured ServiceNow) Tj T* ET
+BT 1 0 0 1 304.4409 480.7559 Tm (incident fields and predefined Flow Designer rules.) Tj T* ET
+1 1 1 rg
+.909804 .243137 .54902 RG
+1.2 w
+n 552.189 379.2756 255.685 164.9764 re B*
+.909804 .243137 .54902 rg
+n 552.189 521.5748 255.685 22.67717 re f*
+1 1 1 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 560.6929 529.2283 Tm (5. AVAILABLE SOLUTIONS) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 563.5276 507.4016 Tm (Users submit incidents through the ServiceNow form.) Tj T* ET
+BT 1 0 0 1 563.5276 494.0787 Tm (Helpdesk staff can manually review descriptions and) Tj T* ET
+BT 1 0 0 1 563.5276 480.7559 Tm (assign Category and Subcategory.) Tj T* ET
+1 1 1 rg
+.952941 .603922 .098039 RG
+1.2 w
+n 34.01575 210.8976 255.685 164.9764 re B*
+.952941 .603922 .098039 rg
+n 34.01575 353.1969 255.685 22.67717 re f*
+1 1 1 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 42.51969 360.8504 Tm (2. JOBS-TO-BE-DONE / PROBLEMS) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 45.35433 339.0236 Tm (Create an IT support ticket, enter the issue clearly,) Tj T* ET
+BT 1 0 0 1 45.35433 325.7008 Tm (classify it correctly, standardize ticket data and) Tj T* ET
+BT 1 0 0 1 45.35433 312.378 Tm (receive confirmation after submission.) Tj T* ET
+1 1 1 rg
+.952941 .603922 .098039 RG
+1.2 w
+n 293.1024 210.8976 255.685 164.9764 re B*
+.952941 .603922 .098039 rg
+n 293.1024 353.1969 255.685 22.67717 re f*
+1 1 1 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 301.6063 360.8504 Tm (9. PROBLEM ROOT CAUSE) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 304.4409 339.0236 Tm (New tickets contain issue descriptions that must be) Tj T* ET
+BT 1 0 0 1 304.4409 325.7008 Tm (interpreted. Without predefined automation, staff) Tj T* ET
+BT 1 0 0 1 304.4409 312.378 Tm (must manually identify the correct classification.) Tj T* ET
+1 1 1 rg
+.952941 .603922 .098039 RG
+1.2 w
+n 552.189 210.8976 255.685 164.9764 re B*
+.952941 .603922 .098039 rg
+n 552.189 353.1969 255.685 22.67717 re f*
+1 1 1 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 560.6929 360.8504 Tm (7. BEHAVIOUR) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 563.5276 339.0236 Tm (User creates a ticket with Caller and Short Description.) Tj T* ET
+BT 1 0 0 1 563.5276 325.7008 Tm (Flow Designer checks the description; helpdesk then) Tj T* ET
+BT 1 0 0 1 563.5276 312.378 Tm (uses the classified ticket for further handling.) Tj T* ET
+1 1 1 rg
+.12549 .654902 .490196 RG
+1.2 w
+n 34.01575 293.3858 255.685 82.48819 re B*
+.12549 .654902 .490196 rg
+n 34.01575 353.1969 255.685 22.67717 re f*
+1 1 1 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 42.51969 360.8504 Tm (3. TRIGGERS) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 45.35433 339.0236 Tm (A new incident is created for Wi-Fi, projector,) Tj T* ET
+BT 1 0 0 1 45.35433 325.7008 Tm (password/login, or slow/hanging computer issues.) Tj T* ET
+1 1 1 rg
+.12549 .654902 .490196 RG
+1.2 w
+n 34.01575 210.8976 255.685 79.65354 re B*
+.12549 .654902 .490196 rg
+n 34.01575 267.874 255.685 22.67717 re f*
+1 1 1 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 42.51969 275.5276 Tm (4. EMOTIONS: BEFORE / AFTER) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 45.35433 253.7008 Tm (BEFORE: possible delay or uncertainty from manual) Tj T* ET
+BT 1 0 0 1 45.35433 240.378 Tm (classification. AFTER: consistent classification and) Tj T* ET
+BT 1 0 0 1 45.35433 227.0551 Tm (automatic ticket confirmation.) Tj T* ET
+1 1 1 rg
+.4 .313725 .65098 RG
+1.2 w
+n 293.1024 210.8976 255.685 164.9764 re B*
+.4 .313725 .65098 rg
+n 293.1024 353.1969 255.685 22.67717 re f*
+1 1 1 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 301.6063 360.8504 Tm (10. YOUR SOLUTION) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 304.4409 339.0236 Tm (ServiceNow Flow Designer triggers when an incident) Tj T* ET
+BT 1 0 0 1 304.4409 325.7008 Tm (is created, checks predefined keywords, updates) Tj T* ET
+BT 1 0 0 1 304.4409 312.378 Tm (Category and Subcategory, and sends an email to) Tj T* ET
+BT 1 0 0 1 304.4409 299.0551 Tm (the Caller. Unmatched tickets remain for manual review.) Tj T* ET
+1 1 1 rg
+.12549 .654902 .490196 RG
+1.2 w
+n 552.189 293.3858 255.685 82.48819 re B*
+.12549 .654902 .490196 rg
+n 552.189 353.1969 255.685 22.67717 re f*
+1 1 1 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 560.6929 360.8504 Tm (8. CHANNELS OF BEHAVIOUR \227 ONLINE) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 563.5276 339.0236 Tm (ServiceNow incident form and automated email) Tj T* ET
+BT 1 0 0 1 563.5276 325.7008 Tm (notification.) Tj T* ET
+1 1 1 rg
+.12549 .654902 .490196 RG
+1.2 w
+n 552.189 210.8976 255.685 79.65354 re B*
+.12549 .654902 .490196 rg
+n 552.189 267.874 255.685 22.67717 re f*
+1 1 1 rg
+BT /F2 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 560.6929 275.5276 Tm (8. CHANNELS OF BEHAVIOUR \227 OFFLINE) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 563.5276 253.7008 Tm (User reports the IT issue to the school helpdesk) Tj T* ET
+BT 1 0 0 1 563.5276 240.378 Tm (and receives support.) Tj T* ET
+.333333 .333333 .333333 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 34.01575 19.84252 Tm (Project Design Phase \177 Problem\226Solution Fit \177 Auto Ticket Classification using Flow Designer) Tj T* ET
+BT 1 0 0 1 725.155 19.84252 Tm (Team ID: SWTID-2026-5730) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+640 556.7756 170 10.5 re
+f*
+n
+750 16.7756 60 10 re
+f*
+0.34 0.34 0.34 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 700.905 559.8756 Tm
+(SWTID\0552026\0559856 \174 04\05510\0552026) Tj
+T*
+ET
+0.38 0.38 0.38 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 753.716 19.8756 Tm
+(SWTID\0552026\0559856) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000405 00000 n 
+0000007533 00000 n 
+0000007640 00000 n 
+0000007747 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+7859
+%%EOF

@@ -1,0 +1,529 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 7664
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 782.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Project Design Phase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 757.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL 124.0355 0 Td (Problem \226 Solution Fit Template) Tj T* -124.0355 0 Td ET
+Q
+Q
+q
+1 0 0 1 60.94488 655.2047 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F2 9.2 Tf 13 TL (Date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.0551 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (03 October 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F2 9.2 Tf 13 TL (Team ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.0551 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (SWTID-2026-5730) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 28 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F2 9.2 Tf 13 TL (Project Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.0551 28 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (Auto Ticket Classification using Flow Designer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F2 9.2 Tf 13 TL (Maximum Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.0551 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (2 Marks) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 92 m 473.3858 92 l S
+n 0 0 m 473.3858 0 l S
+n 0 0 m 0 92 l S
+n 473.3858 0 m 473.3858 92 l S
+n 0 69 m 473.3858 69 l S
+n 0 46 m 473.3858 46 l S
+n 0 23 m 473.3858 23 l S
+n 119.0551 0 m 119.0551 92 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 647.2047 cm
+Q
+q
+1 0 0 1 51.35433 627.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Problem \226 Solution Fit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 556.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 55.8 Tm /F1 9.2 Tf 13 TL (The school IT helpdesk receives incident requests such as Wi-Fi problems, projector problems, password/login issues,) Tj T* (and slow or hanging computers. Manual classification can take extra time and may delay routing. The proposed solution) Tj T* (uses ServiceNow Flow Designer to automatically classify a newly created incident using predefined keyword conditions) Tj T* (and populate the appropriate Category and Subcategory. This directly addresses the classification and routing problem) Tj T* (without requiring manual intervention.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 536.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Customer / User Problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 517.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Users need a simple way to submit an IT support issue with a short description.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 498.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Helpdesk staff spend time identifying the correct category and subcategory for each new ticket.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 479.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Manual classification can lead to inconsistent ticket data or delayed routing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 460.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Callers need confirmation that their request has been submitted.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 440.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Proposed Solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 382.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 42.8 Tm /F1 9.2 Tf 13 TL (When an incident record is created in the Incident Workflow table, ServiceNow Flow Designer checks the issue) Tj T* (description using predefined conditions. The flow assigns standardized Category and Subcategory values and sends an) Tj T* (automated email notification to the caller. The ticket remains stored in a structured format for helpdesk use and future) Tj T* (maintenance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 362.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Problem ) Tj /F3 11 Tf 14 TL (\256) Tj /F2 11 Tf 14 TL ( Solution Fit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60.94488 213.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 144 473.3858 -19 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Observed problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Project solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 110 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Wi-Fi / network issue needs classification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 110 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Network ) Tj /F3 8.5 Tf 11 TL (\256) Tj /F1 8.5 Tf 11 TL ( Wi-Fi) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 91 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Projector issue needs classification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 91 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Hardware ) Tj /F3 8.5 Tf 11 TL (\256) Tj /F1 8.5 Tf 11 TL ( Projector) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Password / login issue needs classification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Access ) Tj /F3 8.5 Tf 11 TL (\256) Tj /F1 8.5 Tf 11 TL ( Forgot Password) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 53 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Slow / hanging computer issue needs classification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 53 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Performance ) Tj /F3 8.5 Tf 11 TL (\256) Tj /F1 8.5 Tf 11 TL ( Slow Computer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Caller needs confirmation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Automated email sent to Caller ) Tj /F3 8.5 Tf 11 TL (\256) Tj /F1 8.5 Tf 11 TL ( Email) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Helpdesk needs standardized ticket data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 217.5984 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Category, Subcategory and ticket fields are populated in the) Tj T* (Incident Workflow table) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 144 m 473.3858 144 l S
+n 0 0 m 473.3858 0 l S
+n 0 0 m 0 144 l S
+n 473.3858 0 m 473.3858 144 l S
+n 0 125 m 473.3858 125 l S
+n 0 106 m 473.3858 106 l S
+n 0 87 m 473.3858 87 l S
+n 0 68 m 473.3858 68 l S
+n 0 49 m 473.3858 49 l S
+n 0 30 m 473.3858 30 l S
+n 212.5984 0 m 212.5984 144 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 207.2047 cm
+Q
+q
+1 0 0 1 51.35433 187.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Expected Fit / Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 168.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Reduces manual effort in ticket classification.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 149.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Provides consistent Category and Subcategory values.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 130.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Supports dependent Category/Subcategory logic.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 111.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Automatically confirms ticket creation to the caller.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 92.20472 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Keeps the workflow maintainable because classification rules can be updated in Flow Designer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 72.20472 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 55.20472 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1. https://www.ideahackers.network/problem-solution-fit-canvas/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+185 729.0898 144 12.7 re
+f*
+n
+185 706.0898 144 12.7 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.2 Tf
+11.04 TL
+ET
+BT
+1 0 0 1 186 733.6658 Tm
+(04\05510\0552026) Tj
+T*
+ET
+BT
+/F1-0 9.2 Tf
+11.04 TL
+ET
+BT
+1 0 0 1 186 710.6658 Tm
+(SWTID\0552026\0559856) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 347
+>>
+stream
+Gat=dcUu,0&;T_&ME.\uV!/u1H4iM>?A,sV2OSBf1eDQ4/\\o4&Jl2p=U)aYDs$)LE%#etm8XYS=TEg1^afs#GXED]Dt"s.O+MjW[[boc;qJ8>>$@390(7o3gu@QpA-2d^<jW%h2Is;*RE8Oi9gtaOBoJ+33Ri4q<!C=6E3r761e0H!@6^D00ar-/_%U;lak96T,%[m!qk3YB_-7I@&9k28H`l6gn%7mKla,c[/2Z@.Z3l"^2IGcO:HbbCKa4#>QlIhJ=GXt1%j!+P-TCt@0m?\\2Ldcfi"Pt*ZukXS&K)grf(4?pMP2EncZN&0I?'\-P9dD'b\Qb.TM_2:H_C-8JEWY2~>
+endstream
+endobj
+12 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000422 00000 n 
+0000008138 00000 n 
+0000008245 00000 n 
+0000008352 00000 n 
+0000008464 00000 n 
+0000008541 00000 n 
+0000008743 00000 n 
+0000009182 00000 n 
+trailer
+<<
+/Size 13
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+9234
+%%EOF
